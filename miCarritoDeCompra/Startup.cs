@@ -40,7 +40,7 @@ namespace miCarritoDeCompra
 
      public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
      {
-        /* if (env.IsDevelopment())
+         if (env.IsDevelopment())
          {
              app.UseDeveloperExceptionPage();
          }
@@ -55,7 +55,7 @@ namespace miCarritoDeCompra
 
          app.UseRouting();
 
-         app.UseAuthorization();*/
+         app.UseAuthorization();
 
          app.UseEndpoints(endpoints =>
          {
