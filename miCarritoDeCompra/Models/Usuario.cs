@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace miCarritoDeCompra.Models
 {
-    public class Usuario 
+    public abstract class Usuario 
     {
         [Key]
         public Guid Id { get; set; }
@@ -50,5 +50,6 @@ namespace miCarritoDeCompra.Models
         public byte[] Password { get; set; } // La password es de tipo array de bytes para almacenar las contraseñas encriptadas
 
         public abstract Rol Rol { get; }
+
     }
 }

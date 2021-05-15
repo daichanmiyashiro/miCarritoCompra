@@ -6,8 +6,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace miCarritoDeCompra.Models
 {
-    public class Cliente
-    {
+    public class Cliente: Usuario
+    {   
+
+
         [Required(ErrorMessage = "El campo {0} es requerido")]
         [MinLength(7, ErrorMessage = "El campo {0} admite un mínimo de {1} caracteres")]
         [MaxLength(9, ErrorMessage = "El campo {0} admite un máximo de {1} caracteres")]
@@ -19,5 +21,6 @@ namespace miCarritoDeCompra.Models
         public List<Carrito> Carritos { get; set; }
 
         public override Rol Rol => Rol.Cliente;
+
     }
 }

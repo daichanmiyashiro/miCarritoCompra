@@ -8,5 +8,6 @@ namespace miCarritoDeCompra.Models
     public class Empleado : Usuario
     {
         public override Rol Rol => Rol.Empleado;
+
     }
 }

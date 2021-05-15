@@ -9,5 +9,6 @@ namespace miCarritoDeCompra.Models
     public class Administrador: Usuario
     {
         public override Rol Rol => Rol.Administrador;
+
     }
 }
