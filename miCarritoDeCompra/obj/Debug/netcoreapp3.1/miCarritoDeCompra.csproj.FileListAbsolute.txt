@@ -1,0 +1,7 @@
+C:\Users\kevin\source\miCarritoDeCompra\miCarritoDeCompra\miCarritoDeCompra\obj\Debug\netcoreapp3.1\miCarritoDeCompra.csprojAssemblyReference.cache
+C:\Users\kevin\source\miCarritoDeCompra\miCarritoDeCompra\miCarritoDeCompra\obj\Debug\netcoreapp3.1\miCarritoDeCompra.AssemblyInfoInputs.cache
+C:\Users\kevin\source\miCarritoDeCompra\miCarritoDeCompra\miCarritoDeCompra\obj\Debug\netcoreapp3.1\miCarritoDeCompra.AssemblyInfo.cs
+C:\Users\kevin\source\miCarritoDeCompra\miCarritoDeCompra\miCarritoDeCompra\obj\Debug\netcoreapp3.1\miCarritoDeCompra.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\miCarritoDeCompra\miCarritoDeCompra\miCarritoDeCompra\obj\Debug\netcoreapp3.1\miCarritoDeCompra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\source\miCarritoDeCompra\miCarritoDeCompra\miCarritoDeCompra\obj\Debug\netcoreapp3.1\miCarritoDeCompra.RazorAssemblyInfo.cache
+C:\Users\kevin\source\miCarritoDeCompra\miCarritoDeCompra\miCarritoDeCompra\obj\Debug\netcoreapp3.1\miCarritoDeCompra.RazorAssemblyInfo.cs
