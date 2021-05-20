@@ -8589,19 +8589,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kevin\\.nuget\\packages\\": {}
+    "C:\\Users\\Fede\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\source\\miCarritoDeCompra\\miCarritoDeCompra\\miCarritoDeCompra\\miCarritoDeCompra.csproj",
+      "projectUniqueName": "C:\\github\\ORT\\miCarritoCompra\\miCarritoDeCompra\\miCarritoDeCompra.csproj",
       "projectName": "miCarritoDeCompra",
-      "projectPath": "C:\\Users\\kevin\\source\\miCarritoDeCompra\\miCarritoDeCompra\\miCarritoDeCompra\\miCarritoDeCompra.csproj",
-      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\source\\miCarritoDeCompra\\miCarritoDeCompra\\miCarritoDeCompra\\obj\\",
+      "projectPath": "C:\\github\\ORT\\miCarritoCompra\\miCarritoDeCompra\\miCarritoDeCompra.csproj",
+      "packagesPath": "C:\\Users\\Fede\\.nuget\\packages\\",
+      "outputPath": "C:\\github\\ORT\\miCarritoCompra\\miCarritoDeCompra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fede\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8664,6 +8664,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.14, 3.1.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8672,7 +8678,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
